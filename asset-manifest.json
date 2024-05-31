@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/taskmanager/static/css/main.659d75d6.css",
-    "main.js": "/taskmanager/static/js/main.75e140e3.js",
-    "index.html": "/taskmanager/index.html",
-    "main.659d75d6.css.map": "/taskmanager/static/css/main.659d75d6.css.map",
-    "main.75e140e3.js.map": "/taskmanager/static/js/main.75e140e3.js.map"
+    "main.css": "/todos-in-react/static/css/main.659d75d6.css",
+    "main.js": "/todos-in-react/static/js/main.75e140e3.js",
+    "index.html": "/todos-in-react/index.html",
+    "main.659d75d6.css.map": "/todos-in-react/static/css/main.659d75d6.css.map",
+    "main.75e140e3.js.map": "/todos-in-react/static/js/main.75e140e3.js.map"
   },
   "entrypoints": [
     "static/css/main.659d75d6.css",

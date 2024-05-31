@@ -1,0 +1,71 @@
+.task-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+tr, td{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+td, th{
+    
+    width: 100px;
+    font-size: 20px;
+}
+
+td:first-child, th:first-child{
+    width: 300px;
+    justify-content: start;
+    text-align: start;
+}
+
+td>button{
+    background-color: red;
+}
+
+td:last-child{
+    font-size: 32px;
+}
+input[type="textbox"]{
+    width: 50px;
+}
+
+hr{
+    height: 5px;
+    background-color: gray;
+    width: 100%;
+}
+
+#tasks-sep{
+    width: 60%;
+    height: 1px;
+
+}
+
+.done{
+    text-decoration: line-through;
+    color:green;
+}
+h3{
+    line-height: auto;
+    margin: 0px;
+}
+h2{
+    margin: 4px;
+}
+
+.status-label{
+    font-size: 12px;
+}
+
+.checkbox-td{
+    display: flex;
+    align-items: center;
+}
+
+
+

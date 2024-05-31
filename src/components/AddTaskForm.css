@@ -1,0 +1,63 @@
+form{
+    padding: 10px;
+    background-color: rgb(228, 228, 130);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+#task-input, #taskInput::before, #task-input::after{
+
+    border: 1px solid rgba(205, 199, 199, 0.562);
+    outline: none;
+    height: 48px;
+    box-sizing: border-box;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 300px;
+    background-color: whitesmoke;
+  
+}
+#task-input:focus{
+    border-color: blue;
+}
+
+
+input[type="submit"]{
+    background-color: rgb(67, 118, 206);
+    color: white;
+    width: 80px;
+    
+
+}
+input[type="submit"]:hover{
+    background-color: rgb(67, 118, 250);
+
+}
+
+
+input{
+
+    font-size: 16px;
+    border-radius: 4px;
+    height:48px;
+    
+}
+
+.date-picker{
+    height: 48px;
+    
+}
+.date-picker div {
+    height: 100%;
+    background-color: whitesmoke;
+}
+
+input[type="submit"].disabled{
+    background-color: gray;
+}

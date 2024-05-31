@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Task Manager( No Backend)
+
+## DESCRIPTION:
+* This is a utility website where you can *manage your task list*.
+* It let's you inputs your to task and deletes them as you finished the task.
+* The list is *persistent* as long as you don't clear your browsers data(**local storage**).
+* This is made with react and using some components from material ui.
+
+## USAGE:
+1. clone this project on your local  using git:  ```git clone https://github.com/garinalvin/todos-in-react``` or download and extract the files.
+
+2. run "npm i" to install the dependencies.You need to have node installed to be able run this locally.
+
+3. While your in todos-in-react folder as your current location on the teminal, type : 
+    ```npm start```
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
